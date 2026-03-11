@@ -1,4 +1,4 @@
-# UART PC–MCU Communication Assignment
+# UART PC–MCU Communication 
 
 ## Overview
 
